@@ -99,8 +99,8 @@ $tweaks = @(
 
 	### UI Tweaks ###
 	"DisableActionCenter",          # "EnableActionCenter",
-	"DisableLockScreen",            # "EnableLockScreen",
-	"DisableLockScreenRS1",       # "EnableLockScreenRS1",
+	"EnableLockScreen",
+	"EnableLockScreenRS1",
 	# "HideNetworkFromLockScreen",    # "ShowNetworkOnLockScreen",
 	# "HideShutdownFromLockScreen",   # "ShowShutdownOnLockScreen",
 	"DisableStickyKeys",            # "EnableStickyKeys",
